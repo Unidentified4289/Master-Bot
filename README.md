@@ -1,4 +1,4 @@
-# A Discord Music Bot written in JavaScript, the discord.js library and discord.js-commando framework
+[![Run on Repl.it](https://repl.it/badge/github/galnir/Master-Bot)](https://repl.it/github/galnir/Master-Bot)# A Discord Music Bot written in JavaScript, the discord.js library and discord.js-commando framework
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
